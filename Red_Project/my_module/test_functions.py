@@ -1,4 +1,4 @@
-from red import start, stop_and_rest, witch_house, go_inside, to_grandmas
+from red_functions import start, stop_and_rest, witch_house, go_inside, to_grandmas
 
 def test_functions():
     assert start()
